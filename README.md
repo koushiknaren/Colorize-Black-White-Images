@@ -177,7 +177,7 @@ Colorize Black & white images [OPEN CV]/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/koushiknaren/Colorize-Black-White-Images
+git clone https://github.com/koushiknaren/Colorize-Black-White-Images.git
 ```
 
 ### 2. Set up environment
